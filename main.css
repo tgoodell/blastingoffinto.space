@@ -1,0 +1,21 @@
+body{
+   text-align: center;
+   background-color: #000000;
+   color: #000000;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+p{
+    font-size: 1.0em;
+    font-family: comic sans;
+    text-align: left;
+    margin-left: 20%;
+}
+canvas{
+	background: #000000;
+}
+a {
+    color: black;
+}
